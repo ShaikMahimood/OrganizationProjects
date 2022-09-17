@@ -1,0 +1,12 @@
+C:\Users\mahshaik\source\repos\OrganizationWebApi\OrganizationRepository\bin\Release\net5.0\OrganizationRepository.deps.json
+C:\Users\mahshaik\source\repos\OrganizationWebApi\OrganizationRepository\bin\Release\net5.0\OrganizationRepository.dll
+C:\Users\mahshaik\source\repos\OrganizationWebApi\OrganizationRepository\bin\Release\net5.0\ref\OrganizationRepository.dll
+C:\Users\mahshaik\source\repos\OrganizationWebApi\OrganizationRepository\bin\Release\net5.0\OrganizationRepository.pdb
+C:\Users\mahshaik\source\repos\OrganizationWebApi\OrganizationRepository\obj\Release\net5.0\OrganizationRepository.csproj.AssemblyReference.cache
+C:\Users\mahshaik\source\repos\OrganizationWebApi\OrganizationRepository\obj\Release\net5.0\OrganizationRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahshaik\source\repos\OrganizationWebApi\OrganizationRepository\obj\Release\net5.0\OrganizationRepository.AssemblyInfoInputs.cache
+C:\Users\mahshaik\source\repos\OrganizationWebApi\OrganizationRepository\obj\Release\net5.0\OrganizationRepository.AssemblyInfo.cs
+C:\Users\mahshaik\source\repos\OrganizationWebApi\OrganizationRepository\obj\Release\net5.0\OrganizationRepository.csproj.CoreCompileInputs.cache
+C:\Users\mahshaik\source\repos\OrganizationWebApi\OrganizationRepository\obj\Release\net5.0\OrganizationRepository.dll
+C:\Users\mahshaik\source\repos\OrganizationWebApi\OrganizationRepository\obj\Release\net5.0\ref\OrganizationRepository.dll
+C:\Users\mahshaik\source\repos\OrganizationWebApi\OrganizationRepository\obj\Release\net5.0\OrganizationRepository.pdb
